@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build C:\\Users\\RatchanonC1\\OneDrive - gsbo365\\Desktop\\ReportDev\\MyWebAPI\\MyWebAPI.csproj",
+			"file": "C:\\Users\\RatchanonC1\\OneDrive - gsbo365\\Desktop\\ReportDev\\MyWebAPI\\MyWebAPI.csproj",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build C:\\Users\\RatchanonC1\\OneDrive - gsbo365\\Desktop\\ReportDev\\MyWebAPI\\MyWebAPI.csproj"
+		}
+	]
+}
